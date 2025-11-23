@@ -23,7 +23,7 @@ A simulation of a Kubernetes-style cluster built to practice **modern C++**, inc
 
 - Modern C++17/20 features (smart pointers, templates, lambdas)
 - Exception-safe design and error propagation
-- File management and RAII
+- File management
 - Clean, modular architecture for system simulation
 - Use of STL algorithms (`sort`, `function`, `vector`, etc.)
 
