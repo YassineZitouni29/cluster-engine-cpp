@@ -55,6 +55,6 @@ Server.h
 ## ▶️ Build & Run
 
 ```bash
-g++ -std=c++20 *.cpp -o cloud
-./cloud
+make
+./main
 ```
